@@ -84,7 +84,7 @@ selectElement.addEventListener('change', function() {
   }
 });
 
-const validUntil = new Date("2025-07-25T19:45:00+05:30"); // Set your expiry date/time
+const validUntil = new Date("2025-08-22T19:49:00+05:30"); // Set your expiry date/time
     const apiUrl = "https://script.googleusercontent.com/macros/echo?user_content_key=AehSKLimUoOBgdUqJAVJV_fLnRY05BYZzEs6oK065zafGOBJ64mmwRb9X0wpfZvX7dBXHx16BfrjzEgSHJlkJdeZpfBFzXfLyVVnCQfWyHchgPhU9KzF7aN2Ixlta7F8DbZtC5Ft4Zhu8q336-3hRGil0GoJBowqSO0WHudlqj0F70jFQXdNJvYp0iUPzZ11f92UeL8JmVEfNeKUJdn4BpQb9CbYX1Umpz2O4BM3UJHSR1X-tkPx-xJ3-3UILYrGR0BLnEKORS4-T5Xj95k6ugF6OP3m25LejA&lib=MwxUjRcLr2qLlnVOLh12wSNkqcO1Ikdrk";
 
     let intervalId;
